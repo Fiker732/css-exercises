@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.b1,
+.b2 {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.b1 {
+  background-color: hsla(0, 0%, 0%, 0.918);
+  color: #f4f7f7;
+}
+.b2 {
+  background-color: rgb(255, 255, 0);
+}
